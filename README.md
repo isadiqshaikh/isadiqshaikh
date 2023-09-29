@@ -3,20 +3,20 @@
 
 - 🌱 I’m currently learning **React, Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/thesadikkhatik](https://github.com/thesadikkhatik)
+- 👨‍💻 All of my projects are available at [https://github.com/isadiqshaikh](https://github.com/isadiqshaikh)
 
 - 💬 Ask me about **C, C++, Java, Python**
 
-- 📫 How to reach me **thesadikkhatik@gmail.com**
+- 📫 How to reach me **isadiq.apk@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10ptYjFWGuCwGMbdhhN2OTQcehMftAxCB/view?usp=drivesdk](https://drive.google.com/file/d/10ptYjFWGuCwGMbdhhN2OTQcehMftAxCB/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thesadikkhatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesadikkhatik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sadik khatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadik khatik" height="30" width="40" /></a>
-<a href="https://fb.com/sadik khatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadik khatik" height="30" width="40" /></a>
-<a href="https://instagram.com/thesadikkhatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesadikkhatik" height="30" width="40" /></a>
+<a href="https://twitter.com/isadiqshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isadiqshaikh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sadiq shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadik khatik" height="30" width="40" /></a>
+<a href="https://fb.com/sadiq shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadiq shaikh" height="30" width="40" /></a>
+<a href="https://instagram.com/sadiq.apk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadiq.apk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
